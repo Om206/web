@@ -4,5 +4,5 @@ function f1() {
         document.write("hotspot ok");
     }
     else
-        document.write("no hotspot for u :(");
+        document.write("no hotspot for u magane:(");
 }
